@@ -1,0 +1,2 @@
+ddynamic_reconfigure:mobile_robot_2dnav:mobile_robot_odom:mobile_robot_setup_tf:niubi_nav_goals:realsense-ros/realsense2_camera:realsense-ros/realsense2_description
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/Workspace/ROSAMR/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/Workspace/ROSAMR/install -G Unix Makefiles

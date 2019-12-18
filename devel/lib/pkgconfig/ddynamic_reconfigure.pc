@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Workspace/ROSAMR/devel
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.2.2
+Cflags: -I/home/nvidia/Workspace/ROSAMR/src/ddynamic_reconfigure/include
+Libs: -L/home/nvidia/Workspace/ROSAMR/devel/lib -lddynamic_reconfigure
+Requires: roscpp dynamic_reconfigure

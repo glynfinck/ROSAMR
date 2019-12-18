@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Workspace/ROSAMR/install
+
+Name: mobile_robot_lf
+Description: Description of mobile_robot_lf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/Workspace/ROSAMR/install/lib 
+Requires: 

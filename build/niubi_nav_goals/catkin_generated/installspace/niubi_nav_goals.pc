@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Workspace/ROSAMR/install
+
+Name: niubi_nav_goals
+Description: Description of niubi_nav_goals
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/Workspace/ROSAMR/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Workspace/ROSAMR/devel
+
+Name: mobile_robot_odom
+Description: Description of mobile_robot_odom
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/Workspace/ROSAMR/devel/lib 
+Requires: 
